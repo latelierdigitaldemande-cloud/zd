@@ -1,0 +1,6 @@
+{
+  "name": "Elite Chauffeur",
+  "description": "Rejoignez le réseau des chauffeurs d'élite partenaires. Une expérience haut de gamme à chaque trajet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
